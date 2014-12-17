@@ -21,6 +21,10 @@
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <link rel="stylesheet" href="css/normalize.css">
   <link rel="stylesheet" href="css/skeleton.css">
+  
+  <!-- Some JQuery, why not
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 
   <!-- Favicon
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -33,7 +37,10 @@
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <div class="container">
     <div class="row">
-      <div class="one-half column" style="margin-top: 25%">
+      <div class="one-third column" sytle="margin-top: 25%">
+        <p>there's going to be some nav here</p>
+      </div>
+      <div class="two-thirds column" style="margin-top: 25%">
         {{ content }}
       </div>
     </div>
@@ -41,5 +48,8 @@
 
 <!-- End Document
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  
+  {% include footer.html %}
+  
 </body>
 </html>
