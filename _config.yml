@@ -1,3 +1,6 @@
+permalink:        pretty
+relative_permalinks: true
+
 highlighter: pygments
 timezone: America/Chicago
 paginate: 3
