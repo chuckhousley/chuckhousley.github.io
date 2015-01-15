@@ -4,3 +4,6 @@ relative_permalinks: true
 highlighter: pygments
 timezone: America/Chicago
 paginate: 3
+
+title: Chuck Housley
+description: 'Just a guy.  Don\'t tell me what to do.'
