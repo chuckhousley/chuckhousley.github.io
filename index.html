@@ -10,13 +10,13 @@ So under construction right now
   <p class="author">
     <span class="date">{{ post.date }}</span>
   </p>
-  <div class="content">
+  <div>
     {{ post.content }}
   </div>
 {% endfor %}
 
 <!-- Pagination links -->
-<div class="pagination">
+<div>
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
   {% else %}
