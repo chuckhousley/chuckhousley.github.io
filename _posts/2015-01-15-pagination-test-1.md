@@ -1,6 +1,6 @@
 ---
-layout: default
-Title: pagination test 1
+layout: post
+title: pagination test 1
 ---
 
 test1
