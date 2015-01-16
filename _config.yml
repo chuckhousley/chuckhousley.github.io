@@ -9,9 +9,9 @@ title: Chuck Housley
 description: "Just a guy, building a blog. Nothing to see here yet"
 
 author:
-	name: 'Chuck Housley'
-	url: 'charleshousley.com'
+  name: 'Chuck Housley'
+  url: 'charleshousley.com'
 	
 	
 gems:
-	- jekyll-redirect-from
+  - jekyll-redirect-from
