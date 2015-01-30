@@ -11,6 +11,8 @@
 
     <nav class="sidebar-nav">
       <a class="sidebar-nav-item{% if page.url == / %} active{% endif %}" href="/">Home</a>
+      <a class="sidebar-nav-item" href="/static/resume.html">Resume</a>
+      <a class="sidebar-nav-item" href="https://github.com/chuckhousley">Github</a>
 
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
@@ -22,8 +24,7 @@
         {% if node.title != null %}
           {% if node.layout == "page" %}
             <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
-            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="/static/resume.html">Resume</a>
-            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="https://github.com/chuckhousley">Github</a>
+            
           {% endif %}
         {% endif %}
       {% endfor %}
