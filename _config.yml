@@ -12,5 +12,8 @@ author:
   name: 'Chuck Housley'
   url: 'charleshousley.com'
 
+pages_list:
+  Resume: '/resume/'
+  
 gems:
   - jekyll-redirect-from
