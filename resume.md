@@ -59,8 +59,7 @@ Productivity:
     
 ### *Experience* ###
 
-*Securboration Inc, O’ Fallon, IL*
-
+*Securboration Inc, O’ Fallon, IL*  
 **Software Developer - Contract** January 2014 - Present
 
 * Acquired and maintained Top Secret security clearance
