@@ -60,15 +60,14 @@ Productivity:
 ### *Experience* ###
 
 *Securboration Inc, O’ Fallon, IL*  
-**Software Developer - Contract** January 2014 - Present
+**Software Developer - Contract** --- January 2014 - Present
 
 * Acquired and maintained Top Secret security clearance
 * Developed Enterprise Java-based server monitoring application for use on Air Force base
 * Assisted in porting Perl web services to communicate with Soap UI API
     
-*Cerner Corporation, Kansas City, MO*
-
-**Summer Associate - Velocity Software Engineer** May - August 2013
+*Cerner Corporation, Kansas City, MO*  
+**Summer Associate - Velocity Software Engineer** --- May - August 2013
 
 * Developed software tools for internal use by managers and developers
 * Assisted in requirements gathering and product design
@@ -76,9 +75,8 @@ Productivity:
 * Gained knowledge of/adhered to agile design philosophy
     
 
-*Missouri University of Science & Technology, Rolla, MO*
-
-**Lead Mentor January 2012 - May 2013**
+*Missouri University of Science & Technology, Rolla, MO*  
+**Lead Mentor** --- January 2012 - May 2013
 
 * Mentored deficient and probationary students
 * Lead seminars on problems that affect college students
@@ -86,7 +84,7 @@ Productivity:
 * Managed and mentored team of 10 student mentors
 
     
-**Resident Assistant August 2011 - August 2012**
+**Resident Assistant** --- August 2011 - August 2012
 
 * Supervised floor of 30 undergraduate students
 * Organized programs for education and social purposes
