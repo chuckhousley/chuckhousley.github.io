@@ -4,7 +4,8 @@ title: Resume
 ---
 
 # Charles S. Housley, Jr #
-## Contact: charles@charleshousley.com ##
+
+##### Contact: charles@charleshousley.com #####
 
 ### *Skills* ###
 
