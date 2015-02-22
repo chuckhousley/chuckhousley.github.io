@@ -9,27 +9,23 @@ title: Resume
 
 ### *Skills* ###
 
-Languages (most used):
-
+Languages (most used):  
 * Java
 * C/C++
 * Python
     
-Languages (Familiarity):
-
+Languages (Familiarity):  
 * Perl
 * bash/shell scripting
 * HTML
 * CSS
 * JavaScript
     
-Version Control:
-
+Version Control:  
 * Git
 * Subversion
     
-Frameworks:
-
+Frameworks:  
 * Glassfish
 * Flask
 * MySQL
@@ -38,21 +34,18 @@ Frameworks:
 * Android SDK
 * QT5
     
-APIs:
-
+APIs:  
 * J2EE
 * Joda
 * SoapUI
 * SQLAlchemy
     
-Operating Systems:
-
+Operating Systems:  
 * Windows
 * Mac OS X
 * Debian-based Linux
     
-Productivity:
-
+Productivity:  
 * Microsoft Office Suite
 * LibreOffice
 * Google Docs
