@@ -12,7 +12,7 @@ title: Resume
 Languages (most used):
 
 * Java
-* C/C**
+* C/C++
 * Python
     
 Languages (Familiarity):
@@ -62,7 +62,6 @@ Productivity:
 *Securboration Inc, O’ Fallon, IL*  
 **Software Developer - Contract** --- January 2014 - Present
 
-* Acquired and maintained Top Secret security clearance
 * Developed Enterprise Java-based server monitoring application for use on Air Force base
 * Assisted in porting Perl web services to communicate with Soap UI API
     
