@@ -9,19 +9,19 @@ title: Resume
 
 ### *Skills* ###
 
-Languages (most used): Java, C/C++, Python
+*Languages (most used)*: Java, C/C++, Python
     
-Languages (Familiarity): Perl, bash/shell scripting, HTML, CSS, JavaScript
+*Languages (Familiarity)*: Perl, bash/shell scripting, HTML, CSS, JavaScript
     
-Version Control: Git, Subversion
+*Version Control*: Git, Subversion
 
-Frameworks: Glassfish, Flask, MySQL, SQLite, MongoDB, Android SDK, QT5
+*Frameworks*: Glassfish, Flask, MySQL, SQLite, MongoDB, Android SDK, QT5
     
-APIs: J2EE, Joda, SoapUI, SQLAlchemy
+*APIs*: J2EE, Joda, SoapUI, SQLAlchemy
 
-Operating Systems: Windows, Mac OS X, Debian-based Linux
+*Operating Systems*: Windows, Mac OS X, Debian-based Linux
     
-Productivity: Microsoft Office Suite, LibreOffice, Google Docs
+*Productivity*: Microsoft Office Suite, LibreOffice, Google Docs
     
 ### *Experience* ###
 
