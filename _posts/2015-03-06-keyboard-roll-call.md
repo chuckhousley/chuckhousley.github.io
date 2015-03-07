@@ -9,7 +9,7 @@ Here's a list of all my current keyboards:
 
 > The beginning of my keyboard collecting.
 > I found it in the basement of my dorm when I was an RA, doing laundry one night.
-> This was right at the beginning of the mechanical keyboard craze, so I was really wanting one for myself but I wasn't willing to shell out >$50 for one
+> This was right at the beginning of the mechanical keyboard craze, so I was really wanting one for myself but I wasn't willing to shell out >$50 for one.
 > When I first picked it up there was a thick layer of dust on it, it must have not been touched in 10 years.
 > Even though no one was going to miss it, I still felt guilty just swiping it.
 > I wasn't going to let a perfectly good keyboard go though, so I stashed it in my laundry basket and snuck it upstairs.
@@ -34,7 +34,7 @@ Here's a list of all my current keyboards:
 **Rosewill RGB80 Kailh Blue**
 
 > My current daily driver.
-> I had gone a while without a keyboard purchase, and this one popped up on sale at Newegg
+> I had gone a while without a keyboard purchase, and this one popped up on sale at Newegg.
 > I usually buy keyboards that have features that I don't already have, so I felt justified with this one.
 > The Kailh switches get a bad rap for being in keyboards with lower quality control, but I think they work just fine.
 > I may have had a few failed actuations, but it may just be my imagination, I'll have to use it more to see.
@@ -56,7 +56,7 @@ Here's a list of all my current keyboards:
 > Typing on it is a nightmare with an actuation force of 30 cN.
 > Even leaving my fingers resting on a key would trigger the switch. 
 > I would look away from what I was typing and look back to "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff" more than once.
-> Elsewhere on the internet, Cherry MYs have been described as "typing on wet newspaper" and "prodding a dead octopus", and I agree 100 percent
+> Elsewhere on the internet, Cherry MYs have been described as "typing on wet newspaper" and "prodding a dead octopus", and I agree 100 percent.
 > The Esc and arrow keys are currently on my CODE Tenkeyless, just a little personalization.
 
 **Packard Bell whatever rubber dome**
@@ -92,7 +92,7 @@ And last but not least:
 
 > This one came in it's original packaging, a box with a smiling boy in full Redshirt regalia flying through space alongside the giant message of "IT'S A KEYBOARD!", as if that wasn't obvious.
 > Sporting a Starfleet insignia on the wristrest, rubber grips on either side, giant easy-to-read buttons and a space bar that reads "Space, The Final Frontier", this keyboard is a real treasure.
-> It's tenkeyless, but the format is <80%, almost like a 60% with the arrow keys and Delete/Insert/etc squished into the right side
+> It's tenkeyless, but the format is <80%, almost like a 60% with the arrow keys and Delete/Insert/etc squished into the right side.
 > I just wish it was easier to type on: pulling off the keycap reveals some sort of plastic stabilizer under each key, forcing the poor child using it to strike dead center to get the switch to actuate.
 > Also, the back has instructions for starting a light show, but it only cycles through lighting up the caps/num/scroll lock LEDs one at a time. Disappointing.
 
