@@ -7,7 +7,7 @@ Here's a list of all my current keyboards:
 
 **Dell Model M**
 
-> The impetus of my keyboard collecting.
+> The beginning of my keyboard collecting.
 > I found it in the basement of my dorm when I was an RA, doing laundry one night.
 > This was right at the beginning of the mechanical keyboard craze, so I was really wanting one for myself but I wasn't willing to shell out >$50 for one
 > When I first picked it up there was a thick layer of dust on it, it must have not been touched in 10 years.
