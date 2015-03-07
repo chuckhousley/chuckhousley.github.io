@@ -6,6 +6,7 @@ layout: post
 Here's a list of all my current keyboards:
 
 **Dell Model M**
+
 > The impetus of my keyboard collecting.
 > I found it in the basement of my dorm when I was an RA, doing laundry one night.
 > This was right at the beginning of the mechanical keyboard craze, so I was really wanting one for myself but I wasn't willing to shell out >$50 for one
@@ -15,12 +16,14 @@ Here's a list of all my current keyboards:
 > It was my daily driver for about 4 years until I got my current keyboard.
 
 **Two other Model M's**
+
 > Found these at my school's surplus sale for $5, too good to pass up.
 > Unfortunately, they both have AT connectors, but I have only one AT-to-PS/2 adaptor.
 > I tossed one of them carelessly one time and smashed the F10 key, so the collectors value is basically ruined.
 > Either way, it's worth having them around as arm weights, these things are built solid.
 
 **CODE Tenkeyless - Cherry MX Clear**
+
 > My work keyboard.
 > With the clear switch I can have the mechanical experience with tactile feedback and less noise than blue/green switches.
 > The media controls are all on the right which allows for nice one-handed operation.
@@ -29,6 +32,7 @@ Here's a list of all my current keyboards:
 > I may get O-ring dampeners for this one in the future to eliminate noise even further, I'm still not at touch-typing levels.
 
 **Rosewill RGB80 Kailh Blue**
+
 > My current daily driver.
 > I had gone a while without a keyboard purchase, and this one popped up on sale at Newegg
 > I usually buy keyboards that have features that I don't already have, so I felt justified with this one.
@@ -43,6 +47,7 @@ Here's a list of all my current keyboards:
 > I'll give it a pass for being an alright keyboard, but promises like that should be delivered on.
 
 **AEG Olympia Cherry MY**
+
 > Found at a Salvation Army for $1.
 > I had no idea about the MY switch when I picked it up, I just felt a linear action switch and the plus shaped stem and I was sold.
 > It's definitely the most unique of all my mechanicals, sporting the awful switch, 3-toned vintage color scheme, and interesting keycap profile.
@@ -55,6 +60,7 @@ Here's a list of all my current keyboards:
 > The Esc and arrow keys are currently on my CODE Tenkeyless, just a little personalization.
 
 **Packard Bell whatever rubber dome**
+
 > Another Salvation Army find, another learning experience.
 > I typed on it and felt rubber dome, but when I pulled the keycap off, I saw the Cherry stem.
 > My assumption was that only mechanical switches had that stem, but it turns out some rubber domes just had that going for them back in the day.
@@ -62,6 +68,7 @@ Here's a list of all my current keyboards:
 > It was built well for a rubber dome, sporting an aluminum back and silicon pcb instead of the plastic sheet in current rubber domes.
 
 **Saitek Eclipse II rubber dome**
+
 > Given to me by my roommate during my freshman year.
 > I played a lot of TF2 back in that year, and my stock Dell keyboard had a space bar that was just too loud.
 > He had this one just laying around extra, I think he won it somewhere?
@@ -69,16 +76,20 @@ Here's a list of all my current keyboards:
 > I used this for a year-and-a-half-ish until I stumbled upon the Model M (above).
 
 **Rosewill Chicklet rubber dome**
+
 > I wanted a chicklet keyboard, this one was like $10.  Whatever.
 > It's my go-to for "I need to plug in a keyboard into this thing" since I don't feel like moving my primary keyboards from their usual spots.
 
 **Lenovo stock keyboard**
+
 > Awful, awful keyboard, but I got it for free from an old build.
 > Just another rubber dome chicklet, but these keys are spaced way too far apart to be comfortable.
 > Additionally, the lower left-most key is the FN key instead of Ctrl, so all muscle memory goes right out the window.
 
 And last but not least:
+
 **Brainworks Star Trek TNG Child's keyboard**
+
 > This one came in it's original packaging, a box with a smiling boy in full Redshirt regalia flying through space alongside the giant message of "IT'S A KEYBOARD!", as if that wasn't obvious.
 > Sporting a Starfleet insignia on the wristrest, rubber grips on either side, giant easy-to-read buttons and a space bar that reads "Space, The Final Frontier", this keyboard is a real treasure.
 > It's tenkeyless, but the format is <80%, almost like a 60% with the arrow keys and Delete/Insert/etc squished into the right side
