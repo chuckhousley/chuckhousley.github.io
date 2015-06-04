@@ -3,7 +3,7 @@ title: Saving for Future Reference (Lenovo UEFI boot problem)
 layout: post
 ---
 
-I need to archive this post: http://ubuntuforums.org/showthread.php?t=2185869&p=12884470#post12884470 just so I don't have to
+I need to archive this post: [http://ubuntuforums.org/showthread.php?t=2185869&p=12884470#post12884470](http://ubuntuforums.org/showthread.php?t=2185869&p=12884470#post12884470) just so I don't have to
 go looking for it in the future.  It was exactly what I needed for my specific problem getting Linux installed on my laptop.
 This was his only post to the ubuntu forums, what a guy.  I owe him a beer.
 
@@ -15,9 +15,13 @@ Hint: The UEFI thing looks for the default EFI/BOOT/BootX64.efi binary, regardle
 
 ```
 mount /dev/sda1 /mnt
+
 cd /mnt/efi
+
 cp -rfv ubuntu boot
+
 cd boot
+
 mv grubx64.efi bootx64.efi
 ```
 
@@ -29,8 +33,11 @@ If you're using kubuntu and the installer failed, apt will nag you because it ca
 
 ```
 sudo mv /usr/bin/efibootmgr /usr/bin/efibootmgr.lol #you must use .lol or else you run the risk of copyright infringement
+
 sudo touch /usr/bin/efibootmgr
+
 sudo chmod +x /usr/bin/efibootmgr
+
 sudo apt-get install grub-efi #will pass and stop nagging
 ```
 
