@@ -13,17 +13,17 @@ Just wanted to share this piece of information with anyone who has had troubles 
 
 Hint: The UEFI thing looks for the default EFI/BOOT/BootX64.efi binary, regardless of what is in it's eprom so skip efibootmgr altogether; You pointlesly risk bricking your laptop.
 
-```
-mount /dev/sda1 /mnt
 
-cd /mnt/efi
+>mount /dev/sda1 /mnt
 
-cp -rfv ubuntu boot
+>cd /mnt/efi
 
-cd boot
+>cp -rfv ubuntu boot
 
-mv grubx64.efi bootx64.efi
-```
+>cd boot
+
+>mv grubx64.efi bootx64.efi
+
 
 Edit boot order so it boots from the hard drive first.
 
@@ -31,15 +31,13 @@ Reboot and enjoy!
 
 If you're using kubuntu and the installer failed, apt will nag you because it cannot finish configuring grub properly. The solution is:
 
-```
-sudo mv /usr/bin/efibootmgr /usr/bin/efibootmgr.lol #you must use .lol or else you run the risk of copyright infringement
+>sudo mv /usr/bin/efibootmgr /usr/bin/efibootmgr.lol #you must use .lol or else you run the risk of copyright infringement
 
-sudo touch /usr/bin/efibootmgr
+>sudo touch /usr/bin/efibootmgr
 
-sudo chmod +x /usr/bin/efibootmgr
+>sudo chmod +x /usr/bin/efibootmgr
 
-sudo apt-get install grub-efi #will pass and stop nagging
-```
+>sudo apt-get install grub-efi #will pass and stop nagging
 
 PS: If you use like me for instance a Lenovo Ideapad 205, suspend/shutdown will not work in EFI mode because of the poor quality of the rice the programmers were payed with. Additionally, the laptop won't wake up from suspend because of a bios bug. In this case, all you need to do is install a windows for a little while, upgrade your bios to the latest version (if it's below 21), then install ubuntu in bios mode.
 The idea is that you can make a bootable usb using the nifty Startup Disk Creator, then mount it and rename the EFI folder to OLDEFI. It will then boot in bios mode and it will create a MBR partition table instead of GPT and it will install grub-bios or whatever it's alias is. Everything will work flawlessly, at least in 13.10
