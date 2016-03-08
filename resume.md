@@ -31,6 +31,7 @@ Experience working on Aglie/Lean teams
 
 *InSequence Inc, Sunset Hills, MO*
 **Software Developer - Contract** --- November 2015 - Current
+
 * Details pending
 
 **Frontend Developer - Contract** --- August 2015 - November 2015
