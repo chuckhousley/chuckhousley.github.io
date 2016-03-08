@@ -12,7 +12,7 @@ author:
   url: 'charleshousley.com'
 
 pages_list:
-  Resume: '/resume/'
+  Resume(updated March 2016): '/resume/'
   
 gems:
   - jekyll-redirect-from
