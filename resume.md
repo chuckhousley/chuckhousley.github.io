@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Resume
+title: Resume (Updated March 2016)
 ---
 
 # Charles S. Housley, Jr #
@@ -9,24 +9,38 @@ title: Resume
 
 ### *Skills* ###
 
-*Languages (most used)*: Java, C/C++, Python
+*Languages (most used)*: JavaScript, Python
     
-*Languages (Familiarity)*: Perl, bash/shell scripting, HTML, CSS, JavaScript
+*Languages (Familiarity)*: Powershell, bash/shell scripting, HTML, CSS, Java
+
+*Currently Learning*: Scala
     
 *Version Control*: Git, Subversion
 
-*Frameworks*: Glassfish, Flask, MySQL, SQLite, MongoDB, Android SDK, QT5
+*Frameworks/tools*: Node.js, Express, Bootstrap, Grunt, Bower, AngularJS, Glassfish, MySQL, SQLite, MongoDB, RESTful/SOAP web services, Docker, jQuery, Protractor, Jasmine
     
 *APIs*: J2EE, Joda, SoapUI, SQLAlchemy
 
 *Operating Systems*: Windows, Mac OS X, Debian-based Linux
     
 *Productivity*: Microsoft Office Suite, LibreOffice, Google Docs
+
+Experience working on Aglie/Lean teams
     
 ### *Experience* ###
 
+*InSequence Inc, Sunset Hills, MO*
+**Software Developer - Contract** --- November 2015 - Current
+* Details pending
+
+**Frontend Developer - Contract** --- August 2015 - November 2015
+
+Contracted to Ball Aerospace for development work on a web application built on Angular JS
+* Created end-to-end tests to simulate user input
+* Communicated with RESTful services to design and implement features requested by customer
+
 *Securboration Inc, O’ Fallon, IL*  
-**Software Developer - Contract** --- January 2014 - Present
+**Software Developer - Contract** --- January 2014 - July 2015
 
 * Developed Enterprise Java-based server monitoring application for use on Air Force base
 * Assisted in porting Perl web services to communicate with Soap UI API
