@@ -1,6 +1,6 @@
 permalink:        pretty
 
-highlighter: pygments
+highlighter: rouge
 timezone: America/Chicago
 paginate: 3
 
