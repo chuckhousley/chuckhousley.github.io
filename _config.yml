@@ -13,6 +13,10 @@ author:
 
 pages_list:
   Resume(updated March 2016): '/resume/'
+  top10dogs.com: 'http://top10dogs.com'
   
 gems:
   - jekyll-redirect-from
+  - jekyll-paginate
+  - jekyll-coffeescript
+
